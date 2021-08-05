@@ -1,0 +1,22 @@
+mmdet==2.3.0 requests
+torch==1.5.1+cpu torchvision==0.6.1+cpu -f https://download.pytorch.org/whl/torch_stable.html
+mmcv-full==1.0.5 -f https://download.openmmlab.com/mmcv/dist/cpu/torch1.5.0/index.html
+pdf2image==1.16.0
+poppler-utils
+img2pdf==0.4.1
+ocrmypdf==12.3.1
+camelot-py==0.10.1
+pytesseract==0.3.8
+ghostscript
+ghostscript
+tesseract-ocr
+libtesseract-dev
+pytesseract==0.3.8
+numpy==1.19.5
+flask==1.1.2
+flask_cors==3.0.10
+python-dotenv==0.18.0
+pandas==1.2.4
+requests==2.25.1
+python-dotenv
+opencv-python==4.5.3.56
